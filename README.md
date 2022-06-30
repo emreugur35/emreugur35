@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emreugur35
+- 👋 Hi, I’m selahattin emre ugur
 - 👀 I’m interested in watching trains
 - 🌱 I’m currently learning how to train dragon
 - 💞️ I’m looking to collaborate on bird watching
