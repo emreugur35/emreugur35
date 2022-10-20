@@ -1,7 +1,6 @@
 - 👋 Hi, I’m selahattin emre ugur
-- 👀 I’m interested in watching trains
-- 🌱 I’m currently learning how to train dragon
-- 💞️ I’m looking to collaborate on bird watching
+- 👀 I’m interested in PHP Frameworks, mySQL
+- 💞️ I’m looking to collaborate on Hosting Panel Development 
 - 📫 How to reach me emre@eugur.dev
 
 <!---
