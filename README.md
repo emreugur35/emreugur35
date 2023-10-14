@@ -1,6 +1,5 @@
 - 👋 Hi, I’m selahattin emre ugur
-- 👀 I’m interested in PHP Frameworks, mySQL
-- 💞️ I’m looking to collaborate on Hosting Panel Development 
+- 👀 I’m interested in PHP, C#, mySQL, Linux
 - 📫 How to reach me emre@eugur.dev
 
 <!---
